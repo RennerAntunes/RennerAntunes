@@ -24,7 +24,7 @@
 
 <div>
     <h3>☎ Contato</h3>
-    <a href="[https://www.linkedin.com/in/bielgdsilva](https://www.linkedin.com/in/renner-prado-0517a4197/)](https://www.linkedin.com/in/renner-prado-0517a4197/)" alt="Linkedin">
+    <a href="https://www.linkedin.com/in/renner-prado-0517a4197/" alt="Linkedin">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
