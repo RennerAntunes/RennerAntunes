@@ -4,7 +4,7 @@
     <h1>Olá, amigo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
         <p align="left" style="font-size: 17px">
             Sou Renner Antunes, <strong>Machine Learning Developer</strong>.<br><br>
-            Atualmente trabalho na área de análise de dados e IA'S generativas, estou focado em aprofundar meus conhecimentos em Python e Redes Neurais, sou formado em Análise e Desenvolvimento de Sistemas no <strong>IFSP</strong>. 
+            Atualmente trabalho na área de análise de dados e IA's generativas, estou focado em aprofundar meus conhecimentos em Python e Redes Neurais, sou formado em Análise e Desenvolvimento de Sistemas no <strong>IFSP</strong>. 
         </p>
     </div>
 </div>
